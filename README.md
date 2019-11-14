@@ -2,17 +2,34 @@
 
 Boilerplate for MERN stack development, ready for production.
 
-Highlights
+# Highlights
 
-NodeJs
-Express Server
-GraphQL
-React
-MongoDB
+- NodeJs
+- Express Server
+- GraphQL
+- React
+- MongoDB
 
 # Installing of dependencies 
  
- npm install
+ ```sh
+npm install
+```
+
+Run the server
+```sh
+npm start server
+```
+
+Run the frontend
+```sh
+npm start client
+```
+
+Run the full-stack
+```sh
+npm start dev
+```
  
  
  # License

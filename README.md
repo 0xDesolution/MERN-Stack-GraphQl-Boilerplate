@@ -10,7 +10,7 @@ GraphQL
 React
 MongoDB
 
-#Installing of dependencies 
+# Installing of dependencies 
  
  npm install
  

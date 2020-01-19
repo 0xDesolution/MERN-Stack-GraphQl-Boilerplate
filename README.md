@@ -1,6 +1,8 @@
 # MERN Stack GraphQl Boilerplate
 
-Boilerplate for MERN stack development, ready for production.
+Boilerplate for MERN stack development 
+
+- Simple Creation of Booking Event Web APP as placeholder and referance of basic function.
 
 # Highlights
 
@@ -8,7 +10,19 @@ Boilerplate for MERN stack development, ready for production.
 - Express Server
 - GraphQL
 - React
-- MongoDB
+- MongoDB Atlas
+- DataLoader
+- Concurrently ( Starting both backend and frontend together)
+
+
+# Future Implementation
+
+- Adding Apollo server
+- Changing to API endpoint for GraphQL
+- Non hardcoded Token
+- Moving NodeJs to use AdonisJS Framework
+- Adding React-Bootstrap
+- Creation of a MEAN Stack version
 
 # Installing of dependencies 
  

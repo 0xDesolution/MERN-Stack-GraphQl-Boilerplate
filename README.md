@@ -12,7 +12,7 @@ Boilerplate for MERN stack development
 - React
 - MongoDB Atlas
 - DataLoader
-- Concurrently ( Starting both backend and frontend together)
+- Concurrently with nodemon ( Starting both backend and frontend together)
 
 
 # Future Implementation
